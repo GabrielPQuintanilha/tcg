@@ -1,0 +1,24 @@
+#p1_fieldset{
+    background-color:#ff6e6e;
+    text-align:center;
+}
+#p2_fieldset{
+    background-color:#6ed9ff;
+    text-align:center;
+}
+
+
+input{
+    width:45%;
+    height:40px;
+}
+body{
+    max-width:400px;
+}
+
+#p1_life, #p2_life{
+    font-size:40px;
+    color:white;
+    text-shadow:1px 1px 5px black;
+}
+
