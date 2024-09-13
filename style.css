@@ -20,8 +20,10 @@ input{
 body{
     max-width:400px;
 }
+
 #p1_life{
-transform: scale(-1, -1);
+    rotate:180deg;
+    display:inline-block;
 }
 
 #p1_life, #p2_life{
