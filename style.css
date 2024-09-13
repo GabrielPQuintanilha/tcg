@@ -1,14 +1,14 @@
 #p1_fieldset{
     background-color:#ff6e6e;
     text-align:center;
-    padding-bottom:80px;
-    padding-top:80px;
+    padding-bottom:82px;
+    padding-top:82px;
 }
 #p2_fieldset{
     background-color:#6ed9ff;
     text-align:center;
-    padding-bottom:80px;
-    padding-top:80px;
+    padding-bottom:82px;
+    padding-top:82px;
 }
 
 
@@ -18,7 +18,7 @@ input{
     appearance: none;
     text-align:center;
     font-size:30px;
-    color:red;
+    color:blue;
     font-weight:200;
     font-family:arial;
     background-color:white;
