@@ -1,13 +1,13 @@
 #p1_fieldset{
     background-color:#ff6e6e;
     text-align:center;
-    height:150px;
+    height:50%;
     padding-top:50px;
 }
 #p2_fieldset{
     background-color:#6ed9ff;
     text-align:center;
-    height:150px;
+    height:50%;
     padding-top:50px;
 }
 
@@ -19,6 +19,10 @@ input{
 }
 body{
     max-width:400px;
+    max-height:300px;
+}
+#p1_life{
+transform: scale(-1, -1);
 }
 
 #p1_life, #p2_life{
