@@ -16,6 +16,8 @@ input{
     width:45%;
     height:40px;
     appearance: none;
+    -moz-appearance: none; 
+    -webkit-appearance: none;
 }
 body{
     max-width:400px;
